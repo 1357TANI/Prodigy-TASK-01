@@ -1,0 +1,1 @@
+#I imported two datasets into Jupyter Notebook and performed some preprocessing. Using Matplotlib, I visualized the distribution of countries for the year 2023. I then compared the top 10 countries with the highest populations.Then with the other dataset I visualized income distribution across different regions.
